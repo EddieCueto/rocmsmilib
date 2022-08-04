@@ -46,6 +46,7 @@
 
 #include <fstream>
 #include <string>
+#include <cstring>
 #include <cstdint>
 #include <map>
 #include <iostream>
